@@ -22,7 +22,7 @@ h1 {
 figure {
 	border-radius: 8px;
 	background: linear-gradient(45deg, #525252b8 35%, #021838ad 70%);
-	padding: 25 10;
+	padding: 25px 10px;
 	margin: 0;
 	font-size: 1.2rem;
 }
